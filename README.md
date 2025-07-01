@@ -1,3 +1,5 @@
+https://web-fluffy-notes.vercel.app/
+
 # Fluffy Notes
 
 Fluffy Notes é um aplicativo web de anotações fofinhas, feito com Next.js, Firebase, React, Tailwind CSS e shadcn/ui.
